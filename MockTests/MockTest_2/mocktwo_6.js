@@ -1,8 +1,9 @@
-const x = 4;
+const x = 14;
 if(typeof(x) === "number"){
     const y = 1;
 }
 console.log(y);
+
 function foo(){
     const z = 3;
 }
